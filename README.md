@@ -28,3 +28,4 @@ I also have a degree in Musical Arts, which probably explains why I obsess over 
 
 [![LinkedIn](https://img.shields.io/badge/-Milton%20Tulli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/miltontulli)
 [![Email](https://img.shields.io/badge/-milton.tulli@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:milton.tulli@gmail.com)
+[![CV](https://img.shields.io/badge/-📄%20View%20CV-333?style=flat)](https://gist.github.com/MiltonTulli/192148d38ef0d7e1b8c99132be2b9ed0)
