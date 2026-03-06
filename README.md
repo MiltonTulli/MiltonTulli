@@ -20,7 +20,7 @@ I care about clean architecture, developer experience, and shipping things that 
 
 ### Background
 
-I've worked across startups and enterprises — JP Morgan, LexisNexis, DXdao, healthcare apps, eCommerce, InsurTech. I've led frontend teams, built products from scratch, and contributed to open-source governance tooling.
+I've worked across startups and enterprises — JP Morgan, LexisNexis, DXdao, healthcare apps, eCommerce, InsurTech. I've led teams, built products from scratch, and contributed to open-source governance tooling.
 
 I also have a degree in Musical Arts, which probably explains why I obsess over rhythm in code reviews.
 
