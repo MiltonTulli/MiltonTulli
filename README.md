@@ -14,7 +14,7 @@ I care about clean architecture, developer experience, and shipping things that 
 ### Recent projects
 
 - **[ERC-7730](https://github.com/MiltonTulli/ERC-7730)** — TypeScript SDK for decoding blockchain transactions into human-readable format
-- **[launcher-poc](https://github.com/MiltonTulli/launcher-poc)** — Token launch interface for Uniswap V4 with Tenderly simulation
+- **[cca-launcher](https://github.com/MiltonTulli/cca-launcher)** — Token launch interface for Uniswap CCA contracts with Tenderly simulation
 - **[trading-bot](https://github.com/MiltonTulli/trading-bot)** — Automated BTC futures trading with alternative data signals
 - **[explorer](https://github.com/MiltonTulli/explorer)** — Open-source blockchain explorer
 
