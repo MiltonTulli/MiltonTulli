@@ -10,6 +10,7 @@ I care about clean architecture, developer experience, and shipping things that 
 - 🔗 **Web3 & Smart Contracts** — Solidity, Hardhat, Foundry, wagmi, viem, The Graph
 - ⚡ **Performance & DX** — Profiling, build optimization, testing infrastructure, CI/CD
 - 📦 **Infra** — Docker, AWS (Lambda, S3, CloudFront, EC2), serverless architectures
+- 🤖 **AI Workflow** — [Cursor](https://cursor.com), [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Conductor](https://github.com/conductor-is/conductor) (parallel agent orchestration), [OpenClaw](https://github.com/openclaw/openclaw) (task automation), [ChatGPT](https://chatgpt.com)/[Codex](https://openai.com/index/codex/)
 
 ### Recent projects
 
