@@ -14,6 +14,7 @@ I care about clean architecture, developer experience, and shipping things that 
 
 ### Recent projects
 
+- ⚡ **[Ephemeral Deploy](https://ephemeral-deploy.vercel.app/)** — Instant deployment API for AI agents. "Vercel, but for agents." One POST + a Solana micropayment = live URL. No accounts, no CLI.
 - **[ERC-7730](https://github.com/MiltonTulli/ERC-7730)** — TypeScript SDK for decoding blockchain transactions into human-readable format
 - **[cca-launcher](https://github.com/MiltonTulli/cca-launcher)** — Token launch interface for Uniswap CCA contracts with Tenderly simulation
 - **[trading-bot](https://github.com/MiltonTulli/trading-bot)** — Automated BTC futures trading with alternative data signals
