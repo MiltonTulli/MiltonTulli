@@ -1,37 +1,27 @@
 # Hey, I'm Milton 👋
 
-**Senior Software Engineer** — full-stack, product and platform. 13+ years shipping production software across fintech, healthcare, eCommerce and Web3.
+**Senior Software Engineer** — full-stack, product and platform. TypeScript, React, Node.js and Go.
 
-Player-coach: I work with clients and product teams to turn messy problems into requirements, architecture and shipped software. I have led small engineering teams (hiring, coaching, standards) and I stay hands-on in TypeScript/Node.js and Go on AWS — APIs, microservices, data pipelines, CI/CD and production reliability.
+I build products end to end and care about architecture, DX and code the next person can change.
 
-Based in Argentina (remote). Spanish (native) · English (C2 / Fluent).
+Argentina (remote). Spanish (native) · English (C2 / Fluent).
+
+Previously: Senior Software Engineer at [Tally](https://www.tally.xyz).
 
 ### What I work with
 
-- **Languages** — TypeScript, JavaScript, Go, Solidity, Python, SQL
-- **Frontend** — React, Next.js, TanStack Query, Tailwind, React Native
-- **Backend** — Node.js, NestJS, GraphQL, REST, PostgreSQL, Supabase, serverless
-- **Cloud & platform** — AWS (Lambda, S3, CloudFront, EC2, Step Functions, EventBridge, SQS, API Gateway), Cloudflare, Docker, Kubernetes, GitHub Actions
-- **Quality** — Playwright, Cypress, Synpress, Datadog, OpenTelemetry, Sentry
-- **AI** — Cursor Cloud Agents, custom MCPs, Linear-triggered background work, Claude Code, Codex, Conductor, CodeRabbit
-- **Web3** — wagmi, viem, Hardhat, Foundry, The Graph, Solidity
-
-### Recent work
-
-- **[Tally](https://www.tally.xyz)** — Senior Software Engineer (Jan 2025 – May 2026). Staking products 0→1 (~$4M TVL), Node/Go platform, Kubernetes, Datadog/OpenTelemetry, and internal AI workflows (Cursor Cloud Agents from Linear, custom MCPs).
-- **[DXdao](https://dxdao.eth.limo)** — Senior Software Engineer (2022 – 2024). DAVI governance app from scratch; Outposts ingestion on AWS; GitHub Actions and Cloudflare.
-- Earlier: Firstleaf (eCommerce / SEO at scale), LexisNexis (team lead, React + React Native), JP Morgan Chase (real-time trading UI).
+TypeScript · React · Next.js · Node.js · Go · AWS · PostgreSQL · Kubernetes · Playwright · Solidity · wagmi/viem · Cursor / Claude Code / Codex
 
 ### Projects
 
 - 🌿 **[ALMA](https://alma-med.com)** — Co-founder. Evidence-based prenatal tracking for health professionals: Fetal Medicine Foundation calculations plus AI analysis and recommendations on fetal growth. Next.js, NestJS, Supabase, Cloudflare.
-- 🚀 **[CCA Launcher](https://launcher.tullim.com)** — Token launchpad on Uniswap V4 Continuous Clearing Auction. [Repo](https://github.com/MiltonTulli/cca-launcher). Next.js 15, wagmi/viem, Foundry, TypeScript SDK.
-- ⚡ **[Ephemeral Deploy](https://ephemeral-deploy.tullim.com)** — Deploy API for AI agents: POST a project, pay with Solana (x402), get a live URL with TTL. Next.js, AWS (S3, CloudFront, CodeBuild), Upstash Redis.
-- 📖 **[ERC-7730 SDK](https://github.com/MiltonTulli/ERC-7730)** — TypeScript library for the ERC-7730 clear signing standard.
+- 📖 **[ERC-7730 SDK](https://github.com/MiltonTulli/ERC-7730)** [![npm](https://img.shields.io/npm/v/@erc7730/sdk?logo=npm&label=%40erc7730%2Fsdk)](https://www.npmjs.com/package/@erc7730/sdk) — TypeScript runtime for the ERC-7730 clear signing standard.
+- 🚀 **[CCA Launcher](https://launcher.tullim.com)** — Token launchpad on Uniswap V4 Continuous Clearing Auction. [Repo](https://github.com/MiltonTulli/cca-launcher). Next.js 15, wagmi/viem, Foundry.
+- ⚡ **[Ephemeral Deploy](https://ephemeral-deploy.tullim.com)** — Deploy API for AI agents: POST a project, pay with Solana (x402), get a live URL with TTL. Next.js, AWS (S3, CloudFront, CodeBuild).
 
 ### Also
 
-B.S. Computer Science · B.A. Musical Arts (professional pianist). The music degree is a decent explanation for caring about rhythm in code reviews.
+B.S. Computer Science · B.A. Musical Arts (professional pianist).
 
 ### Let's connect
 
