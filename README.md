@@ -1,30 +1,37 @@
 # Hey, I'm Milton 👋
 
-**Senior Software Engineer** with 12+ years building web applications — from real-time trading dashboards at JP Morgan to healthcare, eCommerce, and governance platforms.
+**Senior Software Engineer** — full-stack, product and platform. 13+ years shipping production software across fintech, healthcare, eCommerce and Web3.
 
-I care about clean architecture, developer experience, and shipping things that actually work.
+Player-coach: I work with clients and product teams to turn messy problems into requirements, architecture and shipped software. I have led small engineering teams (hiring, coaching, standards) and I stay hands-on in TypeScript/Node.js and Go on AWS — APIs, microservices, data pipelines, CI/CD and production reliability.
+
+Based in Argentina (remote). Spanish (native) · English (C2 / Fluent).
 
 ### What I work with
 
-- 🏗️ **Full-Stack TypeScript** — React, Next.js, Node.js, Go, PostgreSQL, real-time systems
-- ⚡ **Performance & DX** — Profiling, build optimization, testing infrastructure (Playwright, Cypress), CI/CD
-- 📦 **Infra** — Docker, AWS (Lambda, S3, CloudFront, EC2), Google Cloud, serverless architectures
-- 🤖 **AI Workflow** — [Cursor](https://cursor.com), [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Conductor](https://github.com/conductor-is/conductor) (parallel agent orchestration), [OpenClaw](https://github.com/openclaw/openclaw) (task automation), [ChatGPT](https://chatgpt.com)/[Codex](https://openai.com/index/codex/)
-- 🔗 **Web3 & Smart Contracts** — Solidity, Hardhat, Foundry, wagmi, viem, The Graph
+- **Languages** — TypeScript, JavaScript, Go, Solidity, Python, SQL
+- **Frontend** — React, Next.js, TanStack Query, Tailwind, React Native
+- **Backend** — Node.js, NestJS, GraphQL, REST, PostgreSQL, Supabase, serverless
+- **Cloud & platform** — AWS (Lambda, S3, CloudFront, EC2, Step Functions, EventBridge, SQS, API Gateway), Cloudflare, Docker, Kubernetes, GitHub Actions
+- **Quality** — Playwright, Cypress, Synpress, Datadog, OpenTelemetry, Sentry
+- **AI** — Cursor Cloud Agents, custom MCPs, Linear-triggered background work, Claude Code, Codex, Conductor, CodeRabbit
+- **Web3** — wagmi, viem, Hardhat, Foundry, The Graph, Solidity
 
-### Recent projects
+### Recent work
 
-- 🏥 **[ALMA](https://alma-med.com)** — *Co-founder & Builder.* Free prenatal care tool: automated ultrasound analysis, fetal growth monitoring, and weight prediction — improving prenatal risk control.
-- ⚡ **[Ephemeral Deploy](https://ephemeral-deploy.vercel.app/)** — Instant deployment API for AI agents. "Vercel, but for agents." One POST = live URL. No accounts, no CLI.
-- 🤖 **[trading-bot](https://github.com/MiltonTulli/trading-bot)** — Automated BTC futures trading with alternative data signals
-- 🔍 **[explorer](https://github.com/MiltonTulli/explorer)** — Open-source blockchain explorer
-- 📖 **[ERC-7730](https://github.com/MiltonTulli/ERC-7730)** — TypeScript SDK for decoding blockchain transactions into human-readable format
+- **[Tally](https://www.tally.xyz)** — Senior Software Engineer (Jan 2025 – May 2026). Staking products 0→1 (~$4M TVL), Node/Go platform, Kubernetes, Datadog/OpenTelemetry, and internal AI workflows (Cursor Cloud Agents from Linear, custom MCPs).
+- **[DXdao](https://dxdao.eth.limo)** — Senior Software Engineer (2022 – 2024). DAVI governance app from scratch; Outposts ingestion on AWS; GitHub Actions and Cloudflare.
+- Earlier: Firstleaf (eCommerce / SEO at scale), LexisNexis (team lead, React + React Native), JP Morgan Chase (real-time trading UI).
 
-### Background
+### Projects
 
-I've worked across startups and enterprises — JP Morgan, LexisNexis, healthcare, eCommerce, InsurTech, and open-source governance tooling. I've led teams, built products from scratch, and owned them end-to-end.
+- 🌿 **[ALMA](https://alma-med.com)** — Co-founder. Evidence-based prenatal tracking for health professionals: Fetal Medicine Foundation calculations plus AI analysis and recommendations on fetal growth. Next.js, NestJS, Supabase, Cloudflare.
+- 🚀 **[CCA Launcher](https://launcher.tullim.com)** — Token launchpad on Uniswap V4 Continuous Clearing Auction. [Repo](https://github.com/MiltonTulli/cca-launcher). Next.js 15, wagmi/viem, Foundry, TypeScript SDK.
+- ⚡ **[Ephemeral Deploy](https://ephemeral-deploy.tullim.com)** — Deploy API for AI agents: POST a project, pay with Solana (x402), get a live URL with TTL. Next.js, AWS (S3, CloudFront, CodeBuild), Upstash Redis.
+- 📖 **[ERC-7730 SDK](https://github.com/MiltonTulli/ERC-7730)** — TypeScript library for the ERC-7730 clear signing standard.
 
-I also have a degree in Musical Arts, which probably explains why I obsess over rhythm in code reviews.
+### Also
+
+B.S. Computer Science · B.A. Musical Arts (professional pianist). The music degree is a decent explanation for caring about rhythm in code reviews.
 
 ### Let's connect
 
